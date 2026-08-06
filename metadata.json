@@ -1,0 +1,6 @@
+{
+  "name": "Vishwakarma Internet Cafe",
+  "description": "One Trusted Platform for Digital Citizen Services - Identity documents, government schemes, bill payments, digital applications, and AI guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
